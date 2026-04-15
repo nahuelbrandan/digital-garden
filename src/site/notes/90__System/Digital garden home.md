@@ -11,7 +11,7 @@ Notas y apuntes que fui acumulando sobre desarrollo de software, herramientas y 
 
 ## Notas publicadas
 
-*(próximamente)*
+- [[test\|test]]
 
 ---
 
