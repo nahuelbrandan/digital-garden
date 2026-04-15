@@ -2,14 +2,11 @@
 {"dg-publish":true,"permalink":"/90-system/digital-garden-home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+# Neobraf
 
-# Nahuel Brandan
+Notas generales publicadas.
 
-Notas y apuntes que fui acumulando sobre desarrollo de software, herramientas y otros temas.
-
----
-
-## Notas publicadas
+## Indice
 
 - [[test\|test]]
 
