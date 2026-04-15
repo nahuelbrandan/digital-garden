@@ -4,7 +4,7 @@
 
 # Neobraf
 
-Notas generales publicadas.
+Notas generales.
 
 ## Indice
 
