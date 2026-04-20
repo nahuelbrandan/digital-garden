@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/florianopolis/","noteIcon":"","created":"2026-04-20T08:01:23.076-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/florianopolis/","noteIcon":"","created":"2026-04-20T08:34:26.840-03:00","dg-note-properties":{}}
 ---
 
 # Florianópolis
 
-Capital del estado de Santa Catarina, Brasil. Ciudad sobre una isla con ~500.000 habitantes, considerada una de las capitales con mejor calidad de vida del país.
+Capital del estado de Santa Catarina, Brasil. 
+
+Ciudad sobre una isla con ~500.000 habitantes, considerada una de las capitales con **mejor calidad de vida del país**.
 
 ## Población
 
@@ -14,16 +16,16 @@ Capital del estado de Santa Catarina, Brasil. Ciudad sobre una isla con ~500.000
 
 ## Barrios destacados
 
-| Barrio | Perfil |
-|---|---|
-| Lagoa da Conceição | El más buscado — laguna, vida nocturna, restaurantes, tiendas locales |
-| Campeche | Tranquilo, naturaleza, favorito de nómadas digitales |
-| Jurerê Internacional | Exclusivo, playas tranquilas, clubes de playa, lujo |
-| Ingleses | Completo, familiar, buena infraestructura |
-| Trindade | Cerca de la UFSC, más estudiantil y accesible |
-| Centro | Histórico, práctico, bien conectado |
-| Agronomica | Residencial, buenas escuelas y servicios |
-| Itacorubi | Tranquilo, naturaleza, comercio variado |
+| Barrio                 | Perfil                                                                |
+| ---------------------- | --------------------------------------------------------------------- |
+| **Lagoa da Conceição** | El más buscado — laguna, vida nocturna, restaurantes, tiendas locales |
+| **Campeche**           | Tranquilo, naturaleza, favorito de nómadas digitales                  |
+| Jurerê Internacional   | Exclusivo, playas tranquilas, clubes de playa, lujo                   |
+| **Ingleses**           | Completo, familiar, buena infraestructura                             |
+| Trindade               | Cerca de la UFSC, más estudiantil y accesible                         |
+| Centro                 | Histórico, práctico, bien conectado                                   |
+| Agronomica             | Residencial, buenas escuelas y servicios                              |
+| Itacorubi              | Tranquilo, naturaleza, comercio variado                               |
 
 ## Playas
 
@@ -39,17 +41,16 @@ Capital del estado de Santa Catarina, Brasil. Ciudad sobre una isla con ~500.000
 ## Famosos
 
 - **Gustavo Kuerten (Guga)** — tenista, 3 veces campeón de Roland Garros, ex #1 del mundo
-- **Fernando Scherer (Xuxa)** — nadador olímpico, 3 medallas en Juegos Olímpicos y Panamericanos
 - **Dazaranha** — banda de reggae rock local, referente de la cultura florianopolitana
 
 ## Fútbol
 
 Dos clubes de la ciudad, clásico rival histórico:
 
-| Club | Fundación | Estadio | Capacidad |
-|---|---|---|---|
-| **Avaí FC** | 1923 | Estádio Aderbal Ramos da Silva (Ressacada) | ~19.000 |
-| **Figueirense FC** | 1921 | Estádio Orlando Scarpelli | ~19.900 |
+| Club               | Fundación | Estadio                                    | Capacidad |
+| ------------------ | --------- | ------------------------------------------ | --------- |
+| **Avaí FC**        | 1923      | Estádio Aderbal Ramos da Silva (Ressacada) | ~19.000   |
+| **Figueirense FC** | 1921      | Estádio Orlando Scarpelli                  | ~19.900   |
 
 - Ambos son los máximos campeones del Campeonato Catarinense con 18 títulos cada uno
 - Figueirense actualmente en la Serie C del Brasileirão
@@ -61,6 +62,86 @@ Dos clubes de la ciudad, clásico rival histórico:
 - **Museo O Mundo Ovo de Eli Heil** — colección del artista local
 - **Museo del Hombre Sambaqui** — arqueología, 5000 piezas
 - **Centro Cultural Integrado (CIC)** — concentra varios espacios culturales
+
+## Clima
+
+- Temperatura promedio anual: 24°C
+- Verano (dic–mar): 26–31°C, húmedo, temporada de lluvias
+- Invierno (jun–ago): mínimas de ~13°C, vientos fuertes
+- Humedad promedio: 81% — se siente todo el año
+- Lluvia anual: ~1770mm — no hay estación seca, pero oct–mar es la época más lluviosa
+- Mejor época para llegar: octubre/noviembre — antes del calor extremo y la temporada alta
+
+## Costo de vida
+
+*Tasa de referencia: 1 USD ≈ R$5,00 (abril 2026)*
+
+| Ítem | R$ | USD |
+|---|---|---|
+| Alquiler 1 ambiente (zona tranquila) | R$1.800 – R$2.500 | ~$360 – $500 |
+| Alquiler 2 ambientes | R$2.500 – R$4.500 | ~$500 – $900 |
+| Costo de vida persona sola (sin alquiler) | ~R$1.825/mes | ~$365/mes |
+| Costo de vida familia de 4 (sin alquiler) | ~R$6.500/mes | ~$1.300/mes |
+
+- Ingleses y Trindade son los barrios más accesibles para alquiler
+- La comida en supermercado es más barata que en Argentina
+- Plataformas para buscar alquiler: OLX, QuintoAndar, grupos de Facebook
+
+## Transporte
+
+- **Colectivo** — sistema integrado con 6 terminales, R$4.40 por viaje, tarjeta PASSE-RÁPIDO para descuentos. Apps: Moovit, Google Maps, Consórcio Fênix
+- **Uber / 99POP** — disponibles y más económicos que el taxi tradicional
+- **Bicicleta** — buen sistema en zonas planas (Lagoa, Centro). Itaú Bikes con app mensual o por uso
+- **Auto** — necesario para moverse con libertad, pero los puentes generan tráfico en hora pico (7–9hs y 17–19hs)
+- **Moto** — opción popular para evitar el tráfico
+
+## Salud
+
+- **SUS (Sistema Único de Saúde)** — gratuito para todos, incluyendo extranjeros y turistas. Acceso por UPA (urgencias) o UBS (atención primaria)
+- **Sistema privado** — más rápido, mejor infraestructura, requiere plan de salud (plano de saúde) o pago directo
+- Hospitales principales: Hospital Regional Dr. Homero de Miranda Gomes, Hospital de Caridade
+- Farmacias: Raia Drogasil, Drogaria Catarinense, Pacheco — amplia cobertura en toda la isla
+
+## Internet y trabajo remoto
+
+- Fibra óptica muy extendida — muchos departamentos ofrecen >300 Mbps
+- Velocidad promedio: 25–55 Mbps (suficiente para videollamadas y trabajo remoto)
+- Coworkings destacados: Cowork Floripa, Click Coworking, Favo (cerca de la UFSC)
+- Cafeterías aptas para trabajar en Lagoa da Conceição, Campeche y Centro
+- Ciudad referente para nómadas digitales en Brasil
+
+## Idioma en la práctica
+
+- El portugués brasileño es el idioma del día a día — no se habla español ni inglés en general
+- Nivel funcional recomendado para trámites, alquiler y vida cotidiana
+- La similitud con el español ayuda, pero el acelerado ritmo del catarinense puede dificultar la comprensión oral
+- Comunidad argentina facilita la adaptación inicial, pero no reemplaza aprender el idioma
+
+## Comunidad argentina
+
+- Alta presencia de argentinos, especialmente en Ingleses, Lagoa da Conceição y Campeche
+- Grupos activos en Facebook y WhatsApp (buscar "Argentinos en Floripa")
+- Floripa tiene fama de ciudad amigable y abierta con extranjeros
+
+## Residencia Mercosur
+
+Argentinos pueden vivir legalmente en Brasil por el Acuerdo de Residencia Mercosur — trámite simplificado, sin visa previa.
+
+**Proceso:**
+1. Ingresar a Brasil con DNI
+2. Reunir documentación
+3. Completar formulario online en el sitio de la Policía Federal
+4. Sacar turno presencial en la sede más cercana
+5. Presentar documentos en persona — si está todo en orden, se aprueba residencia temporal por 2 años
+6. Antes de vencer los 2 años, solicitar residencia permanente (requiere acreditar medios de vida: contrato de trabajo, MEI o declaración de impuestos)
+
+**Documentos necesarios:**
+- Pasaporte válido (mínimo 6 meses de vigencia)
+- Antecedentes penales apostillados
+- Comprobante de domicilio en Brasil
+
+**Policía Federal — Florianópolis:**
+Rua Paschoal Apostolo Pitsica 4744, Agronômica — Tel: (48) 3281-6500
 
 ## Ciudades cercanas
 
