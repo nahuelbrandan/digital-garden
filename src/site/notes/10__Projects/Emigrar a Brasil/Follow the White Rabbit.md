@@ -10,6 +10,6 @@ Notas sobre el proceso de emigrar a Florianópolis, Brasil.
 ## Notas
 
 1. [[10__Projects/Emigrar a Brasil/Florianópolis\|Florianópolis — Info general]]
-2. [Decisiones](Decisiones.md)
+2. [[10__Projects/Emigrar a Brasil/Decisiones\|Decisiones]]
 3. [[10__Projects/Emigrar a Brasil/Roadmap\|Roadmap]]
 4. [[10__Projects/Emigrar a Brasil/Aprender Portugues/Aprender Portugues\|Aprender Portugués]]
