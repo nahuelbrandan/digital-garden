@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/logistica-del-viaje/","noteIcon":"","created":"2026-04-20T09:01:43.119-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/logistica-del-viaje/","noteIcon":"","created":"2026-04-20T09:25:01.816-03:00","dg-note-properties":{}}
 ---
 
 # Logística del viaje
@@ -42,6 +42,13 @@
 - [ ] Avisar a AFIP cambio de domicilio o baja como autónomo (si aplica)
 - [ ] Abrir cuenta Nubank con CPF apenas llegues
 - [ ] Contratar seguro de salud internacional para los primeros meses (antes de tener plano de saúde)
+
+## Alojamiento inicial
+
+- Llegar con ~10 días de Airbnb reservado — tiempo suficiente para recorrer barrios y ver deptos en persona
+- El alquiler definitivo no se puede cerrar de forma remota: los propietarios quieren conocer al inquilino, ver documentos y firmar en persona
+- QuintoAndar es el más digitalizado, pero igualmente requiere presencia para firma y entrega de llaves
+- Usar esos días para validar el barrio elegido antes de comprometerse con un contrato
 
 ## Logística del vuelo
 
