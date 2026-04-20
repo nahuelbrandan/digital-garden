@@ -1,18 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/florianopolis/","noteIcon":"","created":"2026-04-20T08:34:26.840-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/10-projects/emigrar-a-brasil/florianopolis/","noteIcon":"","created":"2026-04-20T08:41:45.121-03:00","dg-note-properties":{}}
 ---
 
 # Florianópolis
 
-Capital del estado de Santa Catarina, Brasil. 
+De forma cariñosa le dicen **Floripa**.
 
-Ciudad sobre una isla con ~500.000 habitantes, considerada una de las capitales con **mejor calidad de vida del país**.
+Capital del estado de Santa Catarina, Brasil. Una isla subtropical con 42 playas, lagunas y mata atlántica, sin dejar de ser una ciudad moderna y funcional. Combina naturaleza, infraestructura, una escena tecnológica en crecimiento y alta concentración de argentinos — lo que la convierte en una de las ciudades más buscadas del sur de Brasil para emigrar.
 
 ## Población
 
 - ~500.000 habitantes
 - Segunda ciudad más poblada de Santa Catarina
 - Alta presencia de inmigrantes argentinos, europeos y nómadas digitales
+
+## Educación
+
+- **UFSC (Universidade Federal de Santa Catarina)** — una de las mejores universidades públicas del país, ubicada en Trindade. Fuerte en ingeniería, medicina, derecho y ciencias exactas
+- **UDESC** — universidad estatal con campus en el centro y otros puntos de la isla
+- La presencia universitaria hace de Trindade un polo estudiantil: alquileres accesibles, vida cultural activa, servicios variados
+- Universidades privadas: Unisul, Estácio, Uniasselvi — con modalidades presenciales y online
 
 ## Barrios destacados
 
@@ -86,6 +93,18 @@ Dos clubes de la ciudad, clásico rival histórico:
 - Ingleses y Trindade son los barrios más accesibles para alquiler
 - La comida en supermercado es más barata que en Argentina
 - Plataformas para buscar alquiler: OLX, QuintoAndar, grupos de Facebook
+
+## Conectividad
+
+### Aeropuerto
+- **Aeropuerto Internacional Hercílio Luz (FLN)** — ubicado en el sur de la isla, a ~12 km del centro
+- Vuelos directos a Buenos Aires (Aerolíneas Argentinas, LATAM), São Paulo, Rio de Janeiro, Curitiba y Porto Alegre
+- Nueva terminal habilitada en 2023, mayor capacidad y más conexiones internacionales
+
+### Acceso terrestre
+- La isla se conecta al continente por dos puentes: **Ponte Pedro Ivo Campos** y **Ponte Colombo Salles**
+- Terminal de ómnibus (TICEN) en el centro — conexiones a Porto Alegre (~7hs), Curitiba (~5hs), São Paulo (~12hs), Buenos Aires (~26hs)
+- Desde Buenos Aires: vuelo directo o cruce terrestre vía Porto Alegre o Curitiba
 
 ## Transporte
 
