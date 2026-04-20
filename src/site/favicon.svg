@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <rect width="64" height="64" rx="8" fill="#1a1a1a"/>
-  <text x="6" y="24" font-family="monospace" font-size="13" fill="#00ff41">neobraf</text>
-  <text x="6" y="42" font-family="monospace" font-size="13" fill="#00ff41">:~$</text>
-  <rect x="42" y="30" width="8" height="13" fill="#00ff41" opacity="0.85">
+  <text x="6" y="24" font-family="monospace" font-size="13" fill="#70BDFB">neobraf</text>
+  <text x="6" y="42" font-family="monospace" font-size="13" fill="#70BDFB">:~$</text>
+  <rect x="42" y="30" width="8" height="13" fill="#70BDFB" opacity="0.85">
     <animate attributeName="opacity" values="0.85;0;0.85" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
