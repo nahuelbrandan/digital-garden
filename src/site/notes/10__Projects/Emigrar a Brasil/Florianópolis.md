@@ -14,13 +14,6 @@ Capital del estado de Santa Catarina, Brasil. Una isla subtropical con 42 playas
 - Segunda ciudad más poblada de Santa Catarina
 - Alta presencia de inmigrantes argentinos, europeos y nómadas digitales
 
-## Educación
-
-- **UFSC (Universidade Federal de Santa Catarina)** — una de las mejores universidades públicas del país, ubicada en Trindade. Fuerte en ingeniería, medicina, derecho y ciencias exactas
-- **UDESC** — universidad estatal con campus en el centro y otros puntos de la isla
-- La presencia universitaria hace de Trindade un polo estudiantil: alquileres accesibles, vida cultural activa, servicios variados
-- Universidades privadas: Unisul, Estácio, Uniasselvi — con modalidades presenciales y online
-
 ## Barrios destacados
 
 | Barrio                 | Perfil                                                                |
@@ -171,3 +164,9 @@ Rua Paschoal Apostolo Pitsica 4744, Agronômica — Tel: (48) 3281-6500
 | Bombinhas | ~80 km | Playas de aguas cristalinas, buceo |
 | Blumenau | ~150 km | Cultura alemana, Oktoberfest más grande fuera de Alemania |
 | Pomerode | ~160 km | Ciudad con fuerte herencia alemana |
+## Educación
+
+- **UFSC (Universidade Federal de Santa Catarina)** — una de las mejores universidades públicas del país, ubicada en Trindade. Fuerte en ingeniería, medicina, derecho y ciencias exactas
+- **UDESC** — universidad estatal con campus en el centro y otros puntos de la isla
+- La presencia universitaria hace de Trindade un polo estudiantil: alquileres accesibles, vida cultural activa, servicios variados
+- Universidades privadas: Unisul, Estácio, Uniasselvi — con modalidades presenciales y online
