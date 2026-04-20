@@ -6,6 +6,7 @@
 
 Notas sobre el proceso de emigrar a Florianópolis, Brasil.
 
+![](/img/user/10__Projects/Emigrar%20a%20Brasil/Attachments/Pasted%20image%2020260420074626.png)
 ## Notas
 
 - [[10__Projects/Emigrar a Brasil/Emigrar a Brasil\|Emigrar a Brasil]]

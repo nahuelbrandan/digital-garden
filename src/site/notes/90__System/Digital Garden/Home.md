@@ -4,15 +4,9 @@
 
 # Neobraf
 
-Notas generales.
-
-## Indice
-
-- [[test\|test]]
-
 ## Proyectos
 
-- [[10__Projects/Emigrar a Brasil/Beyond the Wall\|Beyond the Wall]]
+- _[[10__Projects/Emigrar a Brasil/Beyond the Wall\|Beyond the Wall]]_
 
 ---
 
