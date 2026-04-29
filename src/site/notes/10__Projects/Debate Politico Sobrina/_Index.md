@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/debate-politico-sobrina/index/","noteIcon":"","created":"2026-04-29T20:31:55.477-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/10-projects/debate-politico-sobrina/index/","noteIcon":"","created":"2026-04-29T20:34:34.378-03:00","dg-note-properties":{}}
 ---
 
 # Debate Político Sobrina — Índice
@@ -12,6 +12,7 @@
 ## Estrategia
 - [[10__Projects/Debate Politico Sobrina/Estrategia de Debate\|Estrategia de Debate]] — apertura, cierre, argumentos centrales y movimientos tácticos
 - [[10__Projects/Debate Politico Sobrina/Ejes del Debate\|Ejes del Debate]] — los 7 temas concretos del debate con argumentos por eje
+- [[10__Projects/Debate Politico Sobrina/Tecnicas de Debate\|Tecnicas de Debate]] — falacias, trampas comunes y cómo manejarlas en cualquier debate
 - [[10__Projects/Debate Politico Sobrina/Simulacro de Debate\|Simulacro de Debate]] — 14 ataques con respuestas para practicar en voz alta
 - [[10__Projects/Debate Politico Sobrina/Ataques al Socialismo\|Ataques al Socialismo]] — corrupción, eficiencia privada, subsidios, burocracia, escala y más
 
