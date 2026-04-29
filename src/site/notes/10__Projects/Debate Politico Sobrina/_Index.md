@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/debate-politico-sobrina/index/","noteIcon":"","created":"2026-04-29T20:22:42.215-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/10-projects/debate-politico-sobrina/index/","noteIcon":"","created":"2026-04-29T20:31:55.477-03:00","dg-note-properties":{}}
 ---
 
 # Debate Político Sobrina — Índice
@@ -11,6 +11,7 @@
 
 ## Estrategia
 - [[10__Projects/Debate Politico Sobrina/Estrategia de Debate\|Estrategia de Debate]] — apertura, cierre, argumentos centrales y movimientos tácticos
+- [[10__Projects/Debate Politico Sobrina/Ejes del Debate\|Ejes del Debate]] — los 7 temas concretos del debate con argumentos por eje
 - [[10__Projects/Debate Politico Sobrina/Simulacro de Debate\|Simulacro de Debate]] — 14 ataques con respuestas para practicar en voz alta
 - [[10__Projects/Debate Politico Sobrina/Ataques al Socialismo\|Ataques al Socialismo]] — corrupción, eficiencia privada, subsidios, burocracia, escala y más
 
@@ -54,7 +55,22 @@
 	- El cementerio de ropa en el desierto de Atacama
 
 - [[10__Projects/Debate Politico Sobrina/Recursos\|Recursos]]
-	- Documental: Sicko (2007) — el sistema de salud de EE.UU. vs el mundo
-	- Documental: Where to Invade Next (2015) — lo que Europa hace mejor
-	- Video: europeos reaccionan a facturas médicas de EE.UU.
-	- Nota: ascendencia social — el sueño americano se vive mejor en Dinamarca
+	- **Documentales — capitalismo**
+		- Inside Job (2010) — la crisis de 2008 y Wall Street
+		- Capitalism: A Love Story (2009) — Michael Moore
+		- The True Cost (2015) — fast fashion y sus víctimas
+		- The Light Bulb Conspiracy (2010) — obsolescencia programada
+		- Sicko (2007) — salud pública vs privada
+		- Where to Invade Next (2015) — lo que Europa hace mejor
+	- **Documentales — socialismo y comunismo**
+		- The Take (2004) — fábricas recuperadas en Argentina
+		- Happy (2011) — el Estado de bienestar y la felicidad
+		- The Big Scary S Word (2021) — el socialismo democrático hoy
+		- The Soviet Story (2008) — crímenes del comunismo soviético
+	- **Videos**
+		- Wealth Inequality in America — visualización viral (6 min)
+		- Europeos reaccionan a facturas médicas de EE.UU.
+	- **Ficción**
+		- Black Mirror — Nosedive (T3 E1) — el social score llevado al extremo
+	- **Nota**
+		- Ascendencia social — el sueño americano se vive mejor en Dinamarca
