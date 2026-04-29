@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-system/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-20T07:55:08.898-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/90-system/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-29T20:25:52.359-03:00","dg-note-properties":{}}
 ---
 
 # Neobraf
@@ -10,6 +10,7 @@
 ## Proyectos
 
 - _[[10__Projects/Emigrar a Brasil/Follow the White Rabbit\|Follow the White Rabbit]]_
+- [[10__Projects/Debate Politico Sobrina/_Index\|Debate Político — Socialismo, Capitalismo y Comunismo]]
 
 ---
 
